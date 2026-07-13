@@ -1,0 +1,89 @@
+id_pedido,id_almacen,fecha_entrega_real,estado_envio,costo_envio
+1,5,,En tránsito,22
+2,1,22/01/2025,En tránsito,12
+3,1,04/02/2025,Retrasado,18
+4,4,,Cancelado,18
+5,3,,Cancelado,28
+6,5,2025-02-27,Entregado,18
+7,1,,Pendiente,10000
+8,5,19/03/2025,En tránsito,12
+9,2,2025-03-20,Entregado,20
+10,5,2025-04-06,Entregado,12
+11,5,,Pendiente,22
+12,2,2025-04-17,Entregado,22
+13,1,2025-05-03,Entregado,15
+14,3,2025-05-08,Entregado,15
+15,2,,En tránsito,22
+16,5,2025-05-29,Entregado,22
+17,2,2025-05-31,Entregado,30
+18,2,2025-07-10,Entregado,22
+19,1,2025-06-23,Entregado,10000
+20,3,2025-07-06,Entregado,22
+21,4,,Pendiente,18
+22,5,,Pendiente,12
+23,1,,Cancelado,20
+24,3,2025-08-07,Entregado,18
+25,2,26/09/2025,Retrasado,12
+26,4,2025-08-30,Entregado,20
+27,1,,En tránsito,28
+28,4,2025-05-13,Entregado,10000
+29,2,,En tránsito,15
+30,5,08/10/2025,En tránsito,12
+31,2,16/02/2025,Pendiente,15
+32,3,19/10/2025,En tránsito,26
+33,1,2025-10-21,Entregado,30
+34,2,,En tránsito,24
+35,1,2025-11-12,Entregado,30
+36,4,2025-11-25,Entregado,18
+37,4,2025-11-28,Entregado,22
+38,3,2025-12-11,Entregado,24
+39,2,23/12/2025,Pendiente,15
+40,5,2025-12-26,Entregado,22
+41,1,2026-01-08,Entregado,15
+42,5,2026-09-13,Entregado,26
+43,1,,Cancelado,15
+44,5,,En tránsito,15
+45,5,,Retrasado,28
+46,5,05/03/2026,En tránsito,18
+47,3,2026-03-06,Entregado,22
+48,2,2026-04-05,Entregado,22
+49,5,2026-03-16,Entregado,20
+50,2,2026-03-29,Entregado,24
+51,2,2026-04-07,Entregado,12
+52,4,18/09/2026,En tránsito,26
+53,4,30/04/2026,Pendiente,28
+54,1,,En tránsito,26
+55,2,,Retrasado,26
+56,1,,Pendiente,28
+57,3,2026-05-30,Entregado,24
+58,4,2026-02-08,Entregado,10000
+59,5,2026-06-17,Entregado,20
+60,1,2026-06-24,Entregado,20
+61,2,2026-07-10,Entregado,15
+62,3,2026-07-11,Entregado,15
+63,3,2026-07-18,Entregado,22
+64,4,02/08/2026,En tránsito,20
+65,5,2026-08-14,Entregado,12
+66,3,2026-08-24,Entregado,10000
+67,4,2026-08-24,Entregado,26
+68,4,2026-09-07,Entregado,18
+69,3,29/09/2026,Pendiente,28
+70,3,2026-09-22,Entregado,15
+71,4,,Pendiente,10000
+72,3,2026-06-14,Entregado,24
+73,5,2026-10-20,Entregado,10000
+74,2,2026-11-05,Entregado,26
+75,4,2026-02-19,Entregado,28
+76,2,,En tránsito,24
+77,4,,Retrasado,24
+78,3,2026-12-11,Entregado,20
+79,2,2026-08-24,Entregado,28
+80,5,08/01/2027,Pendiente,22
+5,1,2025-02-13,Entregado,10000
+12,1,,Pendiente,18
+20,1,,Cancelado,22
+27,2,,Retrasado,28
+35,4,2025-11-18,Entregado,12
+42,3,2026-09-05,Entregado,15
+55,5,2026-06-09,Entregado,30
+68,3,,Cancelado,26

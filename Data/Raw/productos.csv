@@ -1,0 +1,21 @@
+id_producto,nombre_producto,categoria,precio_base
+1,Laptop Pro 14,Electrónica,$1200
+2,Mouse Inalámbrico,Elec,35
+3,Teclado Mecánico,electtronica,89
+4,"Monitor 24""",Electrónica,180
+5,Audífonos Bluetooth,Electronica,$75
+6,Cargador USB-C,Eletrónica,-25
+7,Smartphone X,Electrónica,799
+8,"Tablet 10""",Electrónica,$250
+9,Impresora Multifunción,Oficina,220
+10,Silla Ergonómica,Muebles,310
+11,Escritorio Ajustable,Muebles,$450
+12,Router WiFi 6,Redes,140
+13,Disco SSD 1TB,Electrónica,$95
+14,Webcam HD,eletronica,60
+15,Altavoz Portátil,Electrónica,$55
+16,Cámara de Seguridad,Seguridad,210
+17,Hub USB,Oficina,28
+18,Fuente de Poder,Electrónica,-110
+19,Pendrive 128GB,ElecTrónica,$18
+20,Aspiradora Robot,Hogar,650
